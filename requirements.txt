@@ -1,8 +1,10 @@
 numpy
 Flask
 gunicorn
-sklearn
+-U scikit-learn
 pandas
 ipykernel
 PyYAML
+matplotlib
+
 -e .
