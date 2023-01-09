@@ -1,10 +1,11 @@
 numpy
 Flask
 gunicorn
--U scikit-learn
+scikit-learn
 pandas
 ipykernel
 PyYAML
 matplotlib
+evidently
 
 -e .

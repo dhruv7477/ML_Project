@@ -127,7 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-housing/artifact/data_ingestion/2023-01-08-18-40-04/ingested_data/test/housing.csv
-housing/artifact/data_ingestion/2023-01-08-18-40-04/ingested_data/train/housing.csv
-housing/artifact/data_ingestion/2023-01-08-18-40-04/raw_data/housing.csv
-housing/artifact/data_ingestion/2023-01-08-18-40-04/tgz_data/housing.tgz
+
+#Artifacts
+housing/artifact/

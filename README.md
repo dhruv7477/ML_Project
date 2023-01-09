@@ -96,3 +96,5 @@ docker stop <container_id>
 ```
 
 python setup.py install
+
+Data Drift: When your datset stats gets change we call it as data drift
